@@ -7,6 +7,9 @@ import firebase_admin
 from firebase_admin import credentials, firestore
 from langchain_community.llms import HuggingFaceHub  
 from langchain_core.prompts import ChatPromptTemplate
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # 🔹 CONFIGURAÇÃO DO FIREBASE
 if not firebase_admin._apps:
@@ -21,7 +24,9 @@ if not firebase_admin._apps:
 db = firestore.client()
 
 # 🔹 CONFIGURAÇÃO DO HUGGING FACE
-huggingface_api_token = ""
+huggingface_api_token = os.getenv("HUGGINGFACE_API_TOKEN")
+if not huggingface_api_token:
+    raise ValueError("A chave da Hugging Face não foi carregada! Verifique o .env ou as variáveis de ambiente.")
 
 def model_hf_hub(model="meta-llama/Meta-Llama-3-8B-Instruct", temperature=0.1):
     return HuggingFaceHub(
