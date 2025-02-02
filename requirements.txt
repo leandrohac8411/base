@@ -1,3 +1,8 @@
 streamlit
 PyPDF2
 supabase
+firebase-admin
+langchain-community
+langchain-core
+langchain-huggingface
+
