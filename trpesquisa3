@@ -24,7 +24,7 @@ if not firebase_admin._apps:
 db = firestore.client()
 
 # 🔹 CONFIGURAÇÃO DO HUGGING FACE
-huggingface_api_token = os.getenv("HUGGINGFACE_API_TOKEN")
+huggingface_api_token = st.secrets["HUGGINGFACE_API_TOKEN"]
 if not huggingface_api_token:
     raise ValueError("A chave da Hugging Face não foi carregada! Verifique o .env ou as variáveis de ambiente.")
 
