@@ -9,8 +9,6 @@ from langchain_community.llms import HuggingFaceHub
 from langchain_core.prompts import ChatPromptTemplate
 
 
-load_dotenv()
-
 # 🔹 CONFIGURAÇÃO DO FIREBASE
 if not firebase_admin._apps:
     if os.getenv("STREAMLIT_CLOUD"):
