@@ -4,7 +4,7 @@ import re
 
 st.set_page_config(page_title="Validador de Artefatos 📚", page_icon="📚", layout="wide")
 st.markdown("<h1 style='text-align: center; margin-bottom: 30px;'>📜 Validador de Artefatos</h1>", unsafe_allow_html=True)
-st.markdown("<h6 style='text-align: center; margin-bottom: 30px;'>(Artefatos de acordo com a Instrução Normativa nº 94/22)</h6>", unsafe_allow_html=True)
+st.markdown("<h6 style='text-align: center; margin-bottom: 30px;'>(Artefatos do Planejamento da Contratação, de acordo com a Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022)</h6>", unsafe_allow_html=True)
 
 st.sidebar.header("📂 Enviar Documentos")
 uploaded_dfd = st.sidebar.file_uploader("📜 Envie o Documento de Formalização da Demanda (DFD)", type="pdf")
