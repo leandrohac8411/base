@@ -19,10 +19,10 @@ def extrair_texto_pdf(pdf_file):
         return ""
 
 checklist_dfd = {
-    "Justificativa da Necessidade": "Justificativa da Necessidade|Justificativa|Motivação|JUSTIFICATIVA/MOTIVAÇÃO DA DEMANDA",
-    "Descrição Sucinta do Objeto": "Descrição Sucinta do Objeto|Objeto da contratação proposta",
-    "Quantidade a Ser Contratada": "Quantidade a ser contratada|QTDE. PREVISTA|Quantidade Prevista",
-    "Estimativa Preliminar do Valor": "Estimativa Preliminar do Valor|Valor Estimado",
+    "Justificativa da Necessidade": "Justificativa da Necessidade|Justificativa|Motivação|JUSTIFICATIVA|JUSTIFICATIVA/MOTIVAÇÃO DA DEMANDA",
+    "Descrição Sucinta do Objeto": "Descrição Sucinta do Objeto|Objeto da contratação proposta|IDENTIFICAÇÃO DA DEMANDA",
+    "Quantidade a Ser Contratada": "Quantidade a ser contratada|QTDE. PREVISTA|Quantidade Prevista|Quantidade a ser contratada",
+    "Estimativa Preliminar do Valor": "Estimativa Preliminar do Valor|Valor Estimado|Valor Total Estimado|Valor Total:",
     "Data Pretendida para Conclusão": "Data pretendida para a conclusão|Prazo de Execução",
     "Grau de Prioridade": "Grau de Prioridade",
 }
