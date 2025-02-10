@@ -25,7 +25,10 @@ checklist_dfd = {
     "Quantidade a Ser Contratada": "Quantidade a ser contratada|QTDE. PREVISTA|Quantidade Prevista|Quantidade a ser contratada",
     "Estimativa Preliminar do Valor": "Estimativa Preliminar do Valor|Valor Estimado|Valor Total Estimado|Valor Total:",
     "Data Pretendida para Conclusão": "Data pretendida para a conclusão|Prazo de Execução|Data pretendida para conclusão|Data pretendida",
-    "Grau de Prioridade": "Grau de Prioridade",
+    "Grau de Prioridade": "Grau de Prioridade|Prioridade",
+    "Indicação de Vinculação ou Dependência": "Indicação de Vinculação ou Dependência|Vinculação|Dependência",
+    "Resultados Esperados": "Resultados Esperados|Resultados a Serem Alcançados|Benefícios a Serem Alcançados|Resultados Aguardados",
+    
 }
 
 checklist_etp = {
