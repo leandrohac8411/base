@@ -24,7 +24,7 @@ checklist_dfd = {
     "Descrição Sucinta do Objeto": "Descrição Sucinta do Objeto|Objeto da contratação proposta|IDENTIFICAÇÃO DA DEMANDA",
     "Quantidade a Ser Contratada": "Quantidade a ser contratada|QTDE. PREVISTA|Quantidade Prevista|Quantidade a ser contratada",
     "Estimativa Preliminar do Valor": "Estimativa Preliminar do Valor|Valor Estimado|Valor Total Estimado|Valor Total:",
-    "Data Pretendida para Conclusão": "Data pretendida para a conclusão|Prazo de Execução",
+    "Data Pretendida para Conclusão": "Data pretendida para a conclusão|Prazo de Execução|Data pretendida para conclusão|Data pretendida",
     "Grau de Prioridade": "Grau de Prioridade",
 }
 
