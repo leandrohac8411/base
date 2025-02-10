@@ -99,7 +99,7 @@ with col3:
                 faltantes_tr.append(pergunta)
 
 if uploaded_dfd or uploaded_etp or uploaded_tr:
-    st.subheader("<h3 style='text-align: center; margin-bottom: 30px;'> 📄 Conclusão</h3>", unsafe_allow_html=True)
+    st.subheader("📄 Conclusão")
     if faltantes_dfd:
         st.write("🚨 **Itens ausentes no Documento de Formalização da Demanda (DFD):**")
         for item in faltantes_dfd:
