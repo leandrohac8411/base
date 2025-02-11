@@ -32,16 +32,17 @@ checklist_dfd = {
 }
 
 checklist_etp = {
-    "Introdução": "Introdução|Objeto",
-    "Descrição da Necessidade": "Descrição da Necessidade|Motivação|Justificativa|Detalhes|Descrição|Necessidade da Contratação",
-    "Definição e Especificação dos Requisitos": "Definição e Especificação dos Requisitos|Definição e Especificação das Necessidades e Requisitos|Especificação do Objeto|Descrição da Solução",
-    "Alternativas de Mercado": "Alternativas de Mercado|Alternativas do Mercado|Levantamento de Mercado",
-    "Detalhamento da Solução": "Detalhamento da Solução|Solução",
-    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa do Cenário Escolhido|Justificativa Final",
-    "Pesquisa de Preços": "Pesquisa de Preços|Estimativa de Custos|Estimativa do Custo Total",
-    "Alternativas Analisadas": "Alternativas Analisadas|Alternativas de Mercado|Fontes",
+    "Introdução": "Introdução|Objeto|Objeto da Contratação",
+    "Descrição da Necessidade": "Descrição da Necessidade|Motivação|Justificativa|Descrição da Necessidade da Contratação",
+    "Definição e Especificação dos Requisitos": "Especificação do Objeto|Descrição da Solução|Descrição da Solução Como um Todo",
+    "Alternativas de Mercado": "Alternativas de Mercado|Levantamento de Mercado",
+    "Alternativas Analisadas": "Alternativas Analisadas|Estudo de Mercado",
+    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Técnica|Justificativa de Escolha do Fornecedor",
+    "Pesquisa de Preços": "Pesquisa de Preços|Estimativa de Custos|Estimativa de Quantidades e Valores",
+    "Parcelamento do Objeto": "Parcelamento do Objeto|Parcelamento|Do Parcelamento|Justificativa Para o Não Parcelamento",
     "Viabilidade Técnica e Econômica": "Viabilidade Técnica e Econômica|Declaração de Viabilidade|Viabilidade da Contratação",
 }
+
 
 checklist_tr = {
     "Definição do Objeto": "Definição do Objeto|Objeto da Contratação|Objeto",
