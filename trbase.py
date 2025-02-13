@@ -20,27 +20,30 @@ def extrair_texto_pdf(pdf_file):
         return ""
 
 checklist_dfd = {
-    "Justificativa da Necessidade": "Justificativa da Necessidade|Justificativa|Motivação|JUSTIFICATIVA|JUSTIFICATIVA/MOTIVAÇÃO DA DEMANDA",
-    "Descrição Sucinta do Objeto": "Descrição Sucinta do Objeto|Objeto da contratação proposta|IDENTIFICAÇÃO DA DEMANDA",
-    "Quantidade a Ser Contratada": "Quantidade a ser contratada|QTDE. PREVISTA|Quantidade Prevista|Quantidade a ser contratada",
-    "Estimativa Preliminar do Valor": "Estimativa Preliminar do Valor|Valor Estimado|Valor Total Estimado|Valor Total:",
-    "Data Pretendida para Conclusão": "Data pretendida para a conclusão|Prazo de Execução|Data pretendida para conclusão|Data pretendida",
-    "Grau de Prioridade": "Grau de Prioridade|Prioridade",
-    "Indicação de Vinculação ou Dependência": "Indicação de Vinculação ou Dependência|Vinculação|Dependência",
-    "Resultados Esperados": "Resultados Esperados|Resultados a Serem Alcançados|Benefícios a Serem Alcançados|Resultados Aguardados",
+    "Identificação": "Identificação|Nome da área requisitante|Responsável pela demanda|Identificação do responsável",
+        "Justificativa da Necessidade": "Justificativa da Necessidade|Justificativa|Motivação|JUSTIFICATIVA|JUSTIFICATIVA/MOTIVAÇÃO DA DEMANDA",
+        "Descrição Sucinta do Objeto": "Descrição Sucinta do Objeto|Objeto da contratação proposta|IDENTIFICAÇÃO DA DEMANDA",
+        "Planejamento da Contratação": "Planejamento da Contratação|Quantidade a ser contratada|QTDE. PREVISTA|Quantidade Prevista|Quantidade a ser contratada",
+        "Estimativa Preliminar do Valor": "Estimativa Preliminar do Valor|Valor Estimado|Valor Total Estimado|Valor Total:",
+        "Data Pretendida para Conclusão": "Data pretendida para a conclusão|Prazo de Execução",
+        "Grau de Prioridade": "Grau de Prioridade|Prioridade|Nível de urgência",
+        "Vinculações":"Vinculações|Vinculação com outro DFD|Dependência de outro documento|Relação com demanda anterior",
     
 }
 
 checklist_etp = {
-    "Introdução": "Introdução|Objeto|Objeto da Contratação",
-    "Descrição da Necessidade": "Descrição da Necessidade|Motivação|Justificativa|Descrição da Necessidade da Contratação",
-    "Definição e Especificação dos Requisitos": "Especificação do Objeto|Descrição da Solução|Descrição da Solução Como um Todo",
-    "Alternativas de Mercado": "Alternativas de Mercado|Levantamento de Mercado",
-    "Alternativas Analisadas": "Alternativas Analisadas|Estudo de Mercado",
-    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Técnica|Justificativa de Escolha do Fornecedor",
-    "Pesquisa de Preços": "Pesquisa de Preços|Estimativa de Custos|Estimativa de Quantidades e Valores",
-    "Parcelamento do Objeto": "Parcelamento do Objeto|Parcelamento|Do Parcelamento|Justificativa Para o Não Parcelamento",
-    "Viabilidade Técnica e Econômica": "Viabilidade Técnica e Econômica|Declaração de Viabilidade|Viabilidade da Contratação",
+    "Introdução": "Introdução|Objeto|Objetivo do estudo|Objetivo da Contratação",
+    "Descrição da Necessidade": "Descrição da Necessidade|Motivação|Justificativa|Detalhes|Necessidade da Contratação",
+    "Definição e Especificação dos Requisitos": "Definição e Especificação dos Requisitos|Especificação do Objeto|Descrição da Solução|Requisitos Necessários",
+    "Alternativas de Mercado": "Alternativas de Mercado|Levantamento de Mercado|Soluções Disponíveis",
+    "Alternativas Analisadas": "Alternativas Analisadas|Comparação de Alternativas|Estudo de Mercado|Fontes de Referência",
+    "Detalhamento da Solução": "Detalhamento da Solução|Descrição da Solução|Solução Proposta",
+    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Final|Justificativa Técnica",
+    "Justificativa do Parcelamento": "Justificativa do parcelamento|parcelamento ou não da solução",
+    "Pesquisa de Preços": "Pesquisa de Preços|Estimativa de Custos|Estimativa do Custo Total|Referências de Mercado",
+    "Análise Comparativa de Soluções": "Análise Comparativa de Soluções|Comparação Técnica e Econômica|Comparação de Alternativas",
+    "Análise Comparativa de Custos": "Análise Comparativa de Custos|Cálculo do Custo Total de Propriedade|Total Cost Ownership - TCO",
+    "Viabilidade Técnica e Econômica": "Viabilidade Técnica e Econômica|Declaração de Viabilidade|Viabilidade da Contratação|Riscos e Benefícios"
 }
 
 
