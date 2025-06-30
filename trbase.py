@@ -35,13 +35,11 @@ checklist_etp = {
     "Introdução": "Introdução|Objeto|Objetivo do estudo|Objetivo da Contratação",
     "Descrição da Necessidade": "Descrição da Necessidade|Motivação|Justificativa|Detalhes|Necessidade da Contratação",
     "Definição e Especificação dos Requisitos": "Definição e Especificação dos Requisitos|Especificação do Objeto|Descrição da Solução|Requisitos Necessários",
-    "Alternativas de Mercado": "Alternativas de Mercado|Levantamento de Mercado|Soluções Disponíveis",
-    "Alternativas Analisadas": "Alternativas Analisadas|Comparação de Alternativas|Estudo de Mercado|Fontes de Referência",
+    "Alternativas de Mercado": "Alternativas de Mercado|Levantamento de Mercado|Soluções Disponíveis|Alternativas Analisadas|Comparação de Alternativas|Estudo de Mercado|Fontes de Referência",
     "Detalhamento da Solução": "Detalhamento da Solução|Descrição da Solução|Solução Proposta",
-    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Final|Justificativa Técnica",
+    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Final|Justificativa Técnica|Justificativa do Cenário Escolhido",
     "Justificativa do Parcelamento": "Justificativa do parcelamento|parcelamento ou não da solução",
     "Pesquisa de Preços": "Pesquisa de Preços|Estimativa de Custos|Estimativa do Custo Total|Referências de Mercado",
-    "Análise Comparativa de Soluções": "Análise Comparativa de Soluções|Comparação Técnica e Econômica|Comparação de Alternativas",
     "Análise Comparativa de Custos": "Análise Comparativa de Custos|Cálculo do Custo Total de Propriedade|Total Cost Ownership - TCO",
     "Viabilidade Técnica e Econômica": "Viabilidade Técnica e Econômica|Declaração de Viabilidade|Viabilidade da Contratação|Riscos e Benefícios"
 }
