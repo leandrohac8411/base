@@ -38,7 +38,6 @@ checklist_etp = {
     "Alternativas de Mercado": "Alternativas de Mercado|Levantamento de Mercado|Soluções Disponíveis|Alternativas Analisadas|Comparação de Alternativas|Estudo de Mercado|Fontes de Referência",
     "Detalhamento da Solução": "Detalhamento da Solução|Descrição da Solução|Solução Proposta",
     "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Final|Justificativa Técnica|Justificativa do Cenário Escolhido",
-    "Justificativa do Parcelamento": "Justificativa do parcelamento|parcelamento ou não da solução",
     "Preço Estimado da Contratação": "Pesquisa de Preços|Estimativa de Custos|Estimativa do Custo Total|Referências de Mercado|Preço Estimado da Contratação",
     "Análise Comparativa de Custos": "Análise Comparativa de Custos|Cálculo do Custo Total de Propriedade|Total Cost Ownership - TCO",
     "Necessidades de Adequação": "NECESSIDADES DE ADEQUAÇÃO DO AMBIENTE PARA EXECUÇÃO CONTRATUAL",
