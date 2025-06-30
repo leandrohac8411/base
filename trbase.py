@@ -39,8 +39,9 @@ checklist_etp = {
     "Detalhamento da Solução": "Detalhamento da Solução|Descrição da Solução|Solução Proposta",
     "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Final|Justificativa Técnica|Justificativa do Cenário Escolhido",
     "Justificativa do Parcelamento": "Justificativa do parcelamento|parcelamento ou não da solução",
-    "Pesquisa de Preços": "Pesquisa de Preços|Estimativa de Custos|Estimativa do Custo Total|Referências de Mercado",
+    "Preço Estimado da Contratação": "Pesquisa de Preços|Estimativa de Custos|Estimativa do Custo Total|Referências de Mercado|Preço Estimado da Contratação",
     "Análise Comparativa de Custos": "Análise Comparativa de Custos|Cálculo do Custo Total de Propriedade|Total Cost Ownership - TCO",
+    "Necessidade de Adequação": "Necessidade de Adequação",
     "Viabilidade Técnica e Econômica": "Viabilidade Técnica e Econômica|Declaração de Viabilidade|Viabilidade da Contratação|Riscos e Benefícios"
 }
 
