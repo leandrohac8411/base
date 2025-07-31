@@ -37,7 +37,7 @@ checklist_etp = {
     "Definição e Especificação dos Requisitos": "Definição e Especificação dos Requisitos|Especificação do Objeto|Descrição da Solução|Requisitos Necessários",
     "Alternativas de Mercado": "Alternativas de Mercado|Levantamento de Mercado|Soluções Disponíveis|Alternativas Analisadas|Comparação de Alternativas|Estudo de Mercado|Fontes de Referência",
     "Detalhamento da Solução": "Detalhamento da Solução|Descrição da Solução|Solução Proposta",
-    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Final|Justificativa Técnica|Justificativa do Cenário Escolhido|JUSTIFICATIVA DA SOLUÇÃO ESCOLHIDA - Art 11, "V" IN SGD/ME 94/2022",
+    "Justificativa da Solução Escolhida": "Justificativa da Solução Escolhida|Justificativa Final|Justificativa Técnica|Justificativa do Cenário Escolhido|JUSTIFICATIVA DA SOLUÇÃO ESCOLHIDA - Art 11, 'V' IN SGD/ME 94/2022",
     "Preço Estimado da Contratação": "Pesquisa de Preços|Estimativa de Custos|Estimativa do Custo Total|Referências de Mercado|Preço Estimado da Contratação",
     "Análise Comparativa de Custos": "Análise Comparativa de Custos|Cálculo do Custo Total de Propriedade|Total Cost Ownership - TCO",
     "Necessidades de Adequação": "NECESSIDADES DE ADEQUAÇÃO DO AMBIENTE PARA EXECUÇÃO CONTRATUAL",
